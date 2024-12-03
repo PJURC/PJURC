@@ -1,23 +1,27 @@
-<svg width="300" height="50">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#36BCF7">
-        <tspan>
-            <animate attributeName="visibility" values="hidden;visible" dur="4s" repeatCount="1" />
-            Hello World!
-        </tspan>
-    </text>
-</svg>
+# Welcome to my Profile.
 
-<!--
-**PJURC/PJURC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+* Business Administration graduate.
+* Worked in Tax, Accounting, Operations Finance & Logistics.
+* Extensive experience in automating boring stuff.
+* Currently living in Lithuania.
+* Learning Data Science.
 
-Here are some ideas to get you started:
+# My Tech Stack
+## General
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Data Analytics
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-5391FE?style=for-the-badge&logo=powerquery&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## Other
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
