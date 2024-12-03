@@ -1,4 +1,11 @@
-## Hi there 👋
+<svg width="300" height="50">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#36BCF7">
+        <tspan>
+            <animate attributeName="visibility" values="hidden;visible" dur="4s" repeatCount="1" />
+            Hello World!
+        </tspan>
+    </text>
+</svg>
 
 <!--
 **PJURC/PJURC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
