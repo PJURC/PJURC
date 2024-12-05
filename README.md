@@ -14,6 +14,8 @@ ${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{pandas; numpy}}$ <br>
 ${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{matplotlib; seaborn}}$ <br>
 ${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{scikit-learn}}$ <br>
 
+${\color{aquamarine}\texttt{SQL}}$ <br>
+
 ${\color{aquamarine}\texttt{JAVASCRIPT}}$ <br>
 
 ${\color{aquamarine}\texttt{HTML}}$ <br>
