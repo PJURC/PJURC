@@ -1,23 +1,40 @@
-${\color{lime}\text{admin@github:~> lookup "PJURC"}}$
+${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{summary-card --user "PJURC"}}$
 
-![profile](https://i.imgur.com/YVcZ81t.gif) | ${\color{lime}\texttt{NAME: PIJUS}}$ <br> ${\color{lime}\texttt{LOCATION: KLAIPEDA, LT}}$ <br> ${\color{lime}\texttt{EDUCATION: BBA}}$ <br> ${\color{lime}\texttt{SKILLS: ANALYSIS; AUTOMATION; AI }}$ <br> ${\color{lime}\texttt{POSITION: LOGISTICS PROCESS ENGINEER}}$ <br> ${\color{lime}\texttt{OPEN TO WORK: TRUE}}$
+![profile](https://i.imgur.com/YVcZ81t.gif) | ${\color{lime}\texttt{NAME: }\color{aquamarine}\texttt{PIJUS}}$ <br> ${\color{lime}\texttt{LOCATION: }\color{aquamarine}\texttt{KLAIPEDA, LT}}$ <br> ${\color{lime}\texttt{EDUCATION: }\color{aquamarine}\texttt{BBA}}$ <br> ${\color{lime}\texttt{SKILLS: }\color{aquamarine}\texttt{ANALYSIS, AUTOMATION, AI}}$ <br> ${\color{lime}\texttt{POSITION: }\color{aquamarine}\texttt{LOGISTICS AUTOMATION ENGINEER}}$
 :--|:--
 
-${\color{lime}\text{--END OF RECORD--}}$
+${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{skills-report -l --user "PJURC"}}$
 
-${\color{lime}\text{admin@github:~>}}$
+${\color{lime}\texttt{SKILLS REPORT FOR USER }\color{aquamarine}\texttt{PJURC}}$ <br> ${\color{lime}\texttt{----------------------------------------------}}$ <br>
 
-# My Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+${\color{lime}\texttt{CATEGORY: }\color{aquamarine}\texttt{PROGRAMMING-LANGUAGES}}$ <br>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+${\color{aquamarine}\texttt{PYTHON}}$ <br>
+${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{pandas; numpy}}$ <br>
+${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{matplotlib; seaborn}}$ <br>
+${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{scikit-learn}}$ <br>
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-5391FE?style=for-the-badge&logo=powerquery&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+${\color{aquamarine}\texttt{JAVASCRIPT}}$ <br>
 
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+${\color{aquamarine}\texttt{HTML}}$ <br>
+
+${\color{aquamarine}\texttt{CSS}}$ <br>
+
+${\color{aquamarine}\texttt{VBA}}$ <br>
+
+${\color{aquamarine}\texttt{POWER-QUERY}}$ <br>
+
+${\color{aquamarine}\texttt{DAX}}$ <br>
+
+${\color{lime}\texttt{CATEGORY: }\color{aquamarine}\texttt{PROGRAMS-TOOLS}}$ <br>
+
+${\color{aquamarine}\texttt{MICROSOFT}}$ <br>
+${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{microsoft-excel}}$ <br>
+${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{microsoft-power-bi}}$ <br>
+
+${\color{aquamarine}\texttt{SAP}}$ <br>
+
+${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{open-to-work --user "PJURC"}}$ <br>
+${\color{aquamarine}\texttt{TRUE}}$
+
+${\color{lime}\text{admin@github:~>}}$ ![cursor](https://imgur.com/sMuLDBc.gif)
