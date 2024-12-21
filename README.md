@@ -12,7 +12,6 @@ ${\color{lime}\texttt{NOTE: Click the projects to access them.}}$ <br>
 ${\color{aquamarine}\texttt{data-science}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{└── classification}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[fraudulent-transcations](https://github.com/PJURC-data-science/fraudulent-transactions) <br>
 <a href="https://github.com/PJURC-data-science/fraudulent-transactions" target="_blank">fraudulent-transactions</a>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
 [stroke-prediction](https://github.com/PJURC-data-science/stroke-prediction) <br>
