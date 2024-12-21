@@ -7,7 +7,7 @@ ${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{proj
 
 ${\color{lime}\texttt{PROJECTS OF USER }\color{aquamarine}\texttt{PJURC}}$ <br> 
 ${\color{lime}\texttt{----------------------------------------------}}$ <br>
-${\color{aquamarine}\texttt{NOTE: CTRL + click or mousewheel click the projects to open them in a new tab.}}$ <br>
+${\color{aquamarine}\texttt{NOTE: CTRL + Click the projects to open them.}}$ <br>
 
 ${\color{aquamarine}\texttt{data-science}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{└── classification}\color{lime}\texttt{/}}$ <br>
