@@ -47,32 +47,29 @@ ${\color{lime}\texttt{SKILLS REPORT FOR USER }\color{aquamarine}\texttt{PJURC}}$
 
 ${\color{lime}\texttt{CATEGORY: }\color{aquamarine}\texttt{PROGRAMMING-LANGUAGES}}$ <br>
 
-${\color{aquamarine}\texttt{PYTHON}}$ <br>
-${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{pandas; numpy}}$ <br>
-${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{matplotlib; seaborn}}$ <br>
-${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{scikit-learn}}$ <br>
+${\color{aquamarine}\texttt{GENERAL-PURPOSE}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── PYTHON}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{\quad\quad└── }\texttt{pandas; numpy}}$ <br>
+${\color{aquamarine}\texttt{\quad\quad└── }\texttt{matplotlib; seaborn}}$ <br>
+${\color{aquamarine}\texttt{\quad\quad└── }\texttt{scikit-learn; torch}}$ <br>
 
-${\color{aquamarine}\texttt{SQL}}$ <br>
+${\color{aquamarine}\texttt{DATABASES}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── SQL}\color{lime}\texttt{/}}$ <br>
 
-${\color{aquamarine}\texttt{JAVASCRIPT}}$ <br>
+${\color{aquamarine}\texttt{WEB-DEVELOPMENT}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── HTML}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── CSS}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── JAVSCRIPT}\color{lime}\texttt{/}}$ <br>
 
-${\color{aquamarine}\texttt{HTML}}$ <br>
+${\color{aquamarine}\texttt{MICROSOFT-PRODUCTS}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── EXCEL}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── POWER-BI}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── POWER-QUERY}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── VBA}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── DAX}\color{lime}\texttt{/}}$ <br>
 
-${\color{aquamarine}\texttt{CSS}}$ <br>
-
-${\color{aquamarine}\texttt{VBA}}$ <br>
-
-${\color{aquamarine}\texttt{POWER-QUERY}}$ <br>
-
-${\color{aquamarine}\texttt{DAX}}$ <br>
-
-${\color{lime}\texttt{CATEGORY: }\color{aquamarine}\texttt{PROGRAMS-TOOLS}}$ <br>
-
-${\color{aquamarine}\texttt{MICROSOFT}}$ <br>
-${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{microsoft-excel}}$ <br>
-${\color{lime}\texttt{|- - - }\color{aquamarine}\texttt{microsoft-power-bi}}$ <br>
-
-${\color{aquamarine}\texttt{SAP}}$ <br>
+${\color{aquamarine}\texttt{OTHER}\color{lime}\texttt{/}}$ <br>
+${\color{aquamarine}\texttt{└── SAP}\color{lime}\texttt{/}}$ <br>
 
 ${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{open-to-work --user "PJURC"}}$ <br>
 ${\color{aquamarine}\texttt{TRUE}}$
