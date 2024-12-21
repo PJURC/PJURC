@@ -12,33 +12,33 @@ ${\color{lime}\texttt{NOTE: Click the projects to access them.}}$ <br>
 ${\color{aquamarine}\texttt{data-science}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{└── classification}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[fraudulent-transcations](url-here) <br>
+[fraudulent-transcations](https://github.com/PJURC-data-science/fraudulent-transactions) <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[stroke-predictions](url-here) <br>
+[stroke-prediction](https://github.com/PJURC-data-science/stroke-prediction) <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[travel-insurance](url-here) <br>
+[travel-insurance](https://github.com/PJURC-data-science/travel-insurance) <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[spaceship-titanic](url-here) <br>
+[spaceship-titanic](https://github.com/PJURC-data-science/spaceship-titanic) <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[credit-risk-prediction](url-here) <br>
+[credit-risk-prediction](https://github.com/PJURC-data-science/credit-risk-prediction) <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[red-wine-quality](url-here) <br>
+[red-wine-quality](https://github.com/PJURC-data-science/red-wine-quality) <br>
 ${\color{aquamarine}\texttt{└── regression}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{\quad\quad└──}}$
-[retail-sales-forecasting](url-here) <br>
+[retail-sales-forecasting](https://github.com/PJURC-data-science/retail-sales-forecasting) <br>
 <br>
 
 ${\color{aquamarine}\texttt{data-analytics}\color{lime}\texttt{/}}$ <br>
 ${\color{aquamarine}\texttt{└──}}$
-[spotify-top-tracks](url-here) <br>
+[spotify-top-tracks](https://github.com/PJURC-data-analysis/spotify-top-tracks) <br>
 ${\color{aquamarine}\texttt{└──}}$
-[coursera-courses](url-here) <br>
+[coursera-courses](https://github.com/PJURC-data-analysis/coursera-courses) <br>
 ${\color{aquamarine}\texttt{└──}}$
-[podcasts-reviews](url-here) <br>
+[podcasts-reviews](https://github.com/PJURC-data-analysis/podcasts-reviews) <br>
 ${\color{aquamarine}\texttt{└──}}$
-[south-korea-covid](url-here) <br>
+[south-korea-covid](https://github.com/PJURC-data-analysis/south-korea-covid) <br>
 ${\color{aquamarine}\texttt{└──}}$
-[tech-menal-health](url-here) <br>
+[tech-mental-health](https://github.com/PJURC-data-analysis/tech-mental-health) <br>
 <br>
 
 ${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{skills-report -l --user "PJURC"}}$
