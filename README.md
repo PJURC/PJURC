@@ -1,6 +1,6 @@
 ${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{summary-card --user "PJURC"}}$
 
-![profile](https://github.com/PJURC/PJURC/blob/main/media/profile_pic.gif) | ${\color{lime}\texttt{NAME: }\color{aquamarine}\texttt{PIJUS}}$ <br> ${\color{lime}\texttt{LOCATION: }\color{aquamarine}\texttt{KLAIPEDA, LT}}$ <br> ${\color{lime}\texttt{EDUCATION: }\color{aquamarine}\texttt{BBA}}$ <br> ${\color{lime}\texttt{SKILLS: }\color{aquamarine}\texttt{ANALYSIS, AUTOMATION, AI}}$ <br> ${\color{lime}\texttt{POSITION: }\color{aquamarine}\texttt{LOGISTICS AUTOMATION ENGINEER}}$
+![profile](https://github.com/PJURC/PJURC/blob/main/media/profile_pic.gif) | ${\color{lime}\texttt{NAME: }\color{aquamarine}\texttt{PIJUS}}$ <br> ${\color{lime}\texttt{LOCATION: }\color{aquamarine}\texttt{KLAIPEDA, LT}}$ <br> ${\color{lime}\texttt{EDUCATION: }\color{aquamarine}\texttt{BBA}}$ <br> ${\color{lime}\texttt{SKILLS: }\color{aquamarine}\texttt{ANALYSIS, AUTOMATION, AI}}$ <br> ${\color{lime}\texttt{POSITION: }\color{aquamarine}\texttt{LOGISTICS PROCESS ENGINEER}}$
 :--|:--
 
 ${\color{lime}\texttt{admin@github}\color{aquamarine}\texttt{:}}$ ${\texttt{projects-list --user "PJURC"}}$
